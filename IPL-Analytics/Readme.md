@@ -68,7 +68,7 @@ The dataset contains:
 
 # 📸 Dashboard Preview
 
-![IPL Dashboard](IPL-Analytics/screenshot/ipl_dashboard.png)
+![IPL Dashboard](screenshot/ipl_dashboard.png)
 
 ---
 
@@ -81,7 +81,7 @@ IPL-Analytics/
 │   ├── matches.csv
 │   └── deliveries.csv
 │
-├── screenshots/
+├── screenshot/
 │   └── ipl_dashboard.png
 │
 ├── ipl_dashboard.pbix
