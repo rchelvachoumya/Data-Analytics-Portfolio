@@ -76,7 +76,7 @@ The dataset contains:
 
 ## 📸 Dashboard Preview
 
-![Power BI Dashboard](screenshots\retail_dashboard.png)
+![Power BI Dashboard](screenshots/retail_dashboard.png)
 
 ---
 
