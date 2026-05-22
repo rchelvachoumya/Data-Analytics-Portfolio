@@ -24,16 +24,16 @@ Generated a cleaned Netflix dataset ready for analysis and visualization.
 # Project Screenshots
 
 ## Python Cleaning Code and Output
-![Python Code](screenshot\python_code_terminal.png.png)
+![Python Code](screenshot/python_code_terminal.png.png)
 
 ## Raw Netflix Dataset
-![Raw Dataset](screenshot\raw_dataset.png.png)
+![Raw Dataset](screenshot/raw_dataset.png.png)
 
 ## Cleaned Netflix Dataset
 ![Cleaned Dataset](screenshot/cleaned_dataset_.png.png)
 
 ## Dashboard Netflix Dataset
-![Tableau Dataset](screenshot\tableau_dashboard.png)
+![Tableau Dataset](screenshot/tableau_dashboard.png)
 
 ---
 
