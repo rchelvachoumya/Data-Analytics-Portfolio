@@ -30,7 +30,7 @@ Generated a cleaned Netflix dataset ready for analysis and visualization.
 ![Raw Dataset](screenshot\raw_dataset.png.png)
 
 ## Cleaned Netflix Dataset
-![Cleaned Dataset](screenshot\cleaned_dataset_.png.png)
+![Cleaned Dataset](screenshot/cleaned_dataset_.png.png)
 
 ## Dashboard Netflix Dataset
 ![Tableau Dataset](screenshot\tableau_dashboard.png)
